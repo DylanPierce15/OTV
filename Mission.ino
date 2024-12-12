@@ -64,19 +64,7 @@ void setup() {
 
 void loop() {
     
-
-
-      // Extend actuator
-  extendActuator();
-  delay(10000);  // Adjust time based on actuator speed
-
-      // Stop actuator
-  stopActuator();
-  delay(500);
-
-      // Retract actuator
-  retractActuator();
-  delay(10000);  // Adjust time based on actuator speed
+  mission();
 
 
 }
