@@ -48,4 +48,8 @@ We tested the prototype on various mission scenarios including line-following, o
 ![Screenshot 2025-05-25 at 11 22 10 PM](https://github.com/user-attachments/assets/a0599d4b-27a6-44ae-8aa4-a1d33b29aa5a)
 ![Screenshot 2025-05-25 at 11 22 00 PM](https://github.com/user-attachments/assets/2b3c6027-34b5-4e3c-9dad-ca55df18f05b)
 
+## 🧾 License
 
+This project is for educational use as part of the University of Maryland’s ENES100 course. Content may be reused with attribution.
+
+---
