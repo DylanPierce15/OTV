@@ -41,6 +41,22 @@ Our team developed a fully functional prototype capable of executing predefined 
 
 We tested the prototype on various mission scenarios including line-following, obstacle avoidance, and mission-based task completion. The vehicle successfully met key objectives under real-world constraints.
 
+## 📁 Folder Structure
+
+autonomous-vehicle-design/
+├── Arduino_Code/
+│ └── mission_script.ino
+│ └── mission_script.ino
+├── CAD_Designs/
+│ ├── Fusion360/
+│ └── Onshape/
+├── Schematics/
+│ └── electrical_diagram.pdf
+├── Images/
+│ ├── prototype.jpg
+│ └── circuit.jpg
+├── README.md
+
 ## 📸 Media
 
 ![Screenshot 2025-05-25 at 11 22 27 PM](https://github.com/user-attachments/assets/94af19e3-2d6f-47e3-8c2a-487d271df1b3)
