@@ -44,18 +44,18 @@ We tested the prototype on various mission scenarios including line-following, o
 ## 📁 Folder Structure
 
 autonomous-vehicle-design/
+├── README.md
+├── LICENSE
+├── gitignore
 ├── Arduino_Code/
 │ └── mission_script.ino
-│ └── mission_script.ino
-├── CAD_Designs/
-│ ├── Fusion360/
-│ └── Onshape/
-├── Schematics/
-│ └── electrical_diagram.pdf
-├── Images/
+│ └── navigation.ino
+├── Assets/
 │ ├── prototype.jpg
 │ └── circuit.jpg
-├── README.md
+│ ├── Fusion360/
+│ └── Onshape/
+│ └── electrical_diagram.pdf
 
 ## 📸 Media
 
