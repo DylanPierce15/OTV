@@ -1,1 +1,21 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Arduino build artifacts
+*.hex
+*.elf
+*.bin
+*.o
+*.obj
+*.gch
+
+# IDE-specific folders
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+
 
