@@ -51,11 +51,11 @@ autonomous-vehicle-design/
 │ └── mission_code.ino
 │ └── nav_code.ino
 ├── Assets/
-│ ├── prototype.jpg
-│ └── circuit.jpg
-│ ├── Fusion360/
-│ └── Onshape/
-│ └── electrical_diagram.pdf
+│ ├── dropbox.jpg
+│ ├── eng_drawing.jpg
+│ ├── otv.jpg
+│ ├── piston.jpg
+│ └── product_manual.jpg
 
 ## 📸 Media
 
