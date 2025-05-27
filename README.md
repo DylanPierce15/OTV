@@ -48,8 +48,8 @@ autonomous-vehicle-design/
 ├── LICENSE
 ├── gitignore
 ├── Arduino_Code/
-│ └── mission_script.ino
-│ └── navigation.ino
+│ └── mission_code.ino
+│ └── nav_code.ino
 ├── Assets/
 │ ├── prototype.jpg
 │ └── circuit.jpg
